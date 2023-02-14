@@ -1,0 +1,103 @@
+.h1{
+    text-align: center;
+    text-shadow: blue;
+    font-style: italic;
+}
+.apt{
+    box-shadow: red;
+    font-size: 30px;
+	text-shadow: 0 5px 15px #00ff44;
+	text-shadow: 0 15px 2c5px #000000;
+
+}
+.apt-1{
+    font: bold;
+    left: 10000%;
+    font-style:oblique;
+}
+.imgapt{
+    height: 40%;
+    width: 70%;
+    left: 19%;
+    top:30% ;
+    position: absolute;
+    box-shadow: 0 5px 15px rgb(255, 0, 0);
+}
+body {
+    color: aliceblue;
+	animation-delay: 69ms;
+
+    position: static;
+    background-image: url(2022_11_05_22_37_IMG_0878.JPG);	
+}
+.apt2{
+    font-size: 20px;
+
+}
+.web{
+    top: 70%;
+    position: absolute;
+    font-size :50px;
+    box-shadow: red;
+	text-shadow: 0 5px 15px #00ff44;
+	text-shadow: 0 15px 2c5px #000000;
+
+}
+.dark1{
+    position: absolute;
+    top: 80%;
+    font-size: 35px;
+    font-style: italic;
+}
+.dark2{
+    position: absolute;
+    top: 85%;
+    font-size: 30PX;
+    color: rgb(0, 216, 219);
+}
+.darktxt{
+    position: absolute;
+    top: 95%;
+    font-size: 35px;
+
+}
+.imgg{
+    position: absolute;
+    top: 120%;
+    width: 150'%;
+
+}
+.spf{
+    position: absolute;
+    top: 175%;
+    font-size :50px;
+    box-shadow: red;
+	text-shadow: 0 5px 15px #00ff44;
+	text-shadow: 0 15px 2c5px #000000;
+
+
+}
+.spf1{
+    position: absolute;
+    top: 185%;
+    font-size: 35px;
+    font-style: italic;
+}
+.spf2{
+    position: absolute;
+    top: 193%;
+    font-size: 30PX;
+    color: rgb(0, 216, 219);
+}
+.spf3{
+    position: absolute;
+    top: 214%;
+    font-size: 30PX;
+    color: rgb(0, 216, 219);
+}
+.imj{
+    position: absolute;
+    top :235%;
+    width: 70%;
+    left: 16%;
+}
